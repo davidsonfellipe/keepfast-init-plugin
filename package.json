@@ -1,0 +1,27 @@
+{
+  "name": "keepfast-plugin-name",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keepfast/keepfast-init-plugin.git"
+  },
+  "keywords": [
+    "keepfast",
+    "wpo",
+    "mensure"
+  ],
+  "author": "Author <email@domain.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keepfast/keepfast-init-plugin/issues"
+  },
+  "homepage": "https://github.com/keepfast/keepfast-init-plugin#readme",
+  "dependencies": {
+    "bluebird": "^3.2.1"
+  }
+}
